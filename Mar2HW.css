@@ -1,0 +1,24 @@
+ html
+{
+	background:black;
+	margin: 2;
+	}/*html*/
+dl
+{
+	background:brown;
+}/*dl*/
+dt
+{
+	font-family:serif;
+	color:white;
+}/*dt*/
+dd
+{
+	background:green;
+	color:blue;
+	font-family:serif;
+	font-size:18pt;
+	line-height:16pt;
+	padding:25%;
+	border:solid gray 8px;
+}/*dd*/	
